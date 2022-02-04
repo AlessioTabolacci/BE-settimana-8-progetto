@@ -23,7 +23,7 @@ public class Movimento {
 	//public void setConto(ContoCorrente conto) { this.conto = conto; }
 	public void setIban(String iban) { this.iban = iban; }
 	public void setTipo(TipoOperazione tipo) { this.tipo = tipo; }
-	
+
 
 
 
